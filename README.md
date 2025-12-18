@@ -1,6 +1,6 @@
 # Coffee Journal｜React Native 行動日誌 App
 
-以 React Native / Expo 打造的咖啡廳紀錄 App，提供店家資訊、心得編輯、綜合評分、地圖定位與照片上傳功能，完整實作跨平台行動應用流程。
+以 React Native / Expo 打造的咖啡廳紀錄 App，紀錄店家資訊、心得編輯、綜合評分、地圖定位與照片上傳功能，完整實作跨平台行動應用流程。
 
 ---
 
